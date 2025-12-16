@@ -13,6 +13,4 @@ To predict whether a wine is of "Good Quality" (rating 6+) or "Bad Quality" base
 4. **Model Training:** Used Snowflake Cortex ML (`snowflake.ml.classification`) to train a model inside the database.
 5. **Evaluation:** Achieved an accuracy of ~75% on test data.
 
-## Files Included
-- `project_code.sql`: The SQL script for the project.
-- `presentation.pptx`: Slides explaining the architecture and results.
+
